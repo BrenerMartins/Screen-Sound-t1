@@ -1,0 +1,15 @@
+C:\Cursos\Screen Sound t1\bin\Debug\net7.0\Screen Sound t1.exe
+C:\Cursos\Screen Sound t1\bin\Debug\net7.0\Screen Sound t1.deps.json
+C:\Cursos\Screen Sound t1\bin\Debug\net7.0\Screen Sound t1.runtimeconfig.json
+C:\Cursos\Screen Sound t1\bin\Debug\net7.0\Screen Sound t1.dll
+C:\Cursos\Screen Sound t1\bin\Debug\net7.0\Screen Sound t1.pdb
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.csproj.AssemblyReference.cache
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.AssemblyInfoInputs.cache
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.AssemblyInfo.cs
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.csproj.CoreCompileInputs.cache
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.dll
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\refint\Screen Sound t1.dll
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.pdb
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\Screen Sound t1.genruntimeconfig.cache
+C:\Cursos\Screen Sound t1\obj\Debug\net7.0\ref\Screen Sound t1.dll
